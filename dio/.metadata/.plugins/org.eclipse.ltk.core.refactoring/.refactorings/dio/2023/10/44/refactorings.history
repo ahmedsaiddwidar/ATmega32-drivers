@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;dio/includes&apos; to &apos;dio&apos;" description="Rename resource &apos;includes&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="includes" name="dio" stamp="1698604430554" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;dio/dio/dio&apos; to &apos;includes&apos;" description="Rename resource &apos;dio&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="dio/dio" name="includes" stamp="1698604453433" updateReferences="true"/>
+</session>
